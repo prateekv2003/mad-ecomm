@@ -1,27 +1,16 @@
 {
   "background_color": "#ffffff",
-  "description": "Mad pwa",
+  "description": "Mad Pwa",
   "dir": "ltr",
   "display": "standalone",
-  "name": "prateekv2003.github",
+  "name": "prateekv2003",
   "orientation": "any",
   "scope": "/",
-  "short_name": "prateekv2003.github",
+  "short_name": "prateekv",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [],
   "screenshots": [],
-  "icons": [
-    {
-      "src": "/Boat_Progear.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "/Boat_Progear.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ],
+  "icons": [],
   "shortcuts": []
 }
