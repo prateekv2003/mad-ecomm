@@ -11,6 +11,17 @@
   "theme_color": "#ffffff",
   "categories": [],
   "screenshots": [],
-  "icons": [],
+  "icons": [
+    {
+      "src": "/Boat_Progear.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/Boat_Progear.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
   "shortcuts": []
 }
