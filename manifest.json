@@ -1,0 +1,16 @@
+{
+  "background_color": "#ffffff",
+  "description": "Mad pwa",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "prateekv2003.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "prateekv2003.github",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [],
+  "screenshots": [],
+  "icons": [],
+  "shortcuts": []
+}
